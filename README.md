@@ -1,2 +1,2 @@
-# testtools_modpack
-Test tools modpack for Minetest : A set of tools to ease mod testing
+# shell_modpacl
+Shell modpack for Minetest : A shell for minetest admins and testers
